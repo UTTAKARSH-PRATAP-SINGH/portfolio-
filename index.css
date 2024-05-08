@@ -8,7 +8,7 @@
 }
 
 body {
-    background: #001b29;
+    background: #030301;
     color: #ededed;
 }
 
@@ -46,7 +46,7 @@ body {
 }
 
 .home {
-    background: url(8.jpg);
+    background-image: url("bg.jpg");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right;
